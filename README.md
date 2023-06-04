@@ -1,2 +1,2 @@
-# Striver-s-SDE-Sheet---Challenge
+# Striver-s-SDE-Sheet - Challenge
 Contains codes implemented on my own!
